@@ -1,0 +1,14 @@
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\TcpAndUdpClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\TcpAndUdpClasses.AssemblyInfoInputs.cache
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\TcpAndUdpClasses.AssemblyInfo.cs
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\TcpAndUdpClasses.csproj.CoreCompileInputs.cache
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\bin\Debug\net8.0\TcpAndUdpClasses.exe
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\bin\Debug\net8.0\TcpAndUdpClasses.deps.json
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\bin\Debug\net8.0\TcpAndUdpClasses.runtimeconfig.json
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\bin\Debug\net8.0\TcpAndUdpClasses.dll
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\bin\Debug\net8.0\TcpAndUdpClasses.pdb
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\TcpAndUdpClasses.dll
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\refint\TcpAndUdpClasses.dll
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\TcpAndUdpClasses.pdb
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\TcpAndUdpClasses.genruntimeconfig.cache
+C:\Users\mahmudov_m\source\repos\TcpAndUdpClasses\TcpAndUdpClasses\obj\Debug\net8.0\ref\TcpAndUdpClasses.dll
